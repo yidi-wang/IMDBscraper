@@ -20,7 +20,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Code
 
-Template code is provided in the `IMDB.ipynb` notebook file
+Template code is provided in the `IMDB.ipynb` notebook file. 
+
+The template code uses [The Hunger Games (2012)](http://www.imdb.com/title/tt1392170/reviews?start=0) as an example. To try another movie, you need to replace the current movie id (tt1392170) with the id of the movie you want to try.
+
+Additionally, you need to download a [selenium webdriver](http://www.seleniumhq.org/projects/webdriver/).
 
 ## Run
 
